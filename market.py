@@ -40,8 +40,6 @@ def get_product_list(page, campaign_id, access_token):
 
     """
 
-
-
     endpoint_url = "https://api.partner.market.yandex.ru/"
     headers = {
         "Content-Type": "application/json",
